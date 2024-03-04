@@ -12,7 +12,7 @@ What I’m Up To:
 📚 Exploring AI and Machine learning.
 Connect with Me:
 📫 Reach out via email: sarwechabro@gmail.com 
-💬 Let’s chat on LinkedIn: Your LinkedIn Profile- 👋 Hi, I’m sarwech-imdad-2a311220a/.
+💬 Let’s chat on LinkedIn: 👋 Hi, I’m sarwech-imdad-2a311220a/.
 
 <!---
 SarwechAbro/SarwechAbro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
