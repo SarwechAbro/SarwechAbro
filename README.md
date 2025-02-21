@@ -4,8 +4,7 @@ Hi, I’m Sarwech Imdad, a Software Engineering student at Sindh Madressatul Isl
 I am passionate about learning new technologies and frameworks that can help me create better software solutions for various domains and challenges.
 I have learning experience in working on different types of software projects, web applications, and data analysis tools. I enjoy exploring the best practices and design patterns for each platform and domain.
 
-I value collaboration and communication in software engineering and I am always eager to improve my skills and knowledge in software development, and I regularly participate in online courses such as edX Harvad University's courses, workshops, hackathons, and open-source communities. Explore my projects to see how I combine my technical expertise with creativity to build innovative solutions.
-. Let’s connect and collaborate on exciting tech ventures!
+I value collaboration and communication in software engineering and I am always eager to improve my skills and knowledge in software development, and I regularly participate in online courses such as edX Harvad University's courses, workshops, hackathons, and open-source communities, Explore my projects to see how I combine my technical expertise with creativity to build innovative solutions, Let’s connect and collaborate on exciting tech ventures!
 
 [![](https://visitcount.itsvg.in/api?id=SarwechAbro&icon=5&color=1)](https://visitcount.itsvg.in)
 
@@ -16,7 +15,7 @@ I value collaboration and communication in software engineering and I am always 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarwech_abro)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SarwechAbro) 
 
-# 💻 Languages & Technologies:
+## 💻 Languages & Technologies:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
@@ -45,12 +44,13 @@ I value collaboration and communication in software engineering and I am always 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SarwechAbro&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SarwechAbro&theme=react&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarwechAbro&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SarwechAbro&theme=react&hide_border=false)
+## 📊 GitHub Stats:
 
-### 🔝 Top Contributed Repo
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarwechAbro&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SarwechAbro&theme=react&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api?username=SarwechAbro&theme=react&hide_border=false&include_all_commits=true&count_private=false)
+
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SarwechAbro&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 
